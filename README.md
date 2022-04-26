@@ -15,4 +15,8 @@ Smart Machine ID,
 Task Completion Status, 
 Total Number of Tasks for Smart Machine X, 
 Utilization Capacity of Smart Machine (%), and
-Total Workload Capacity Required for Smart Machine X
+Total Workload Capacity Required for Smart Machine X.
+
+The task history data consists of 7,500 tasks having 15,000 jobs distributed among smart machines.
+
+Similarly, enviromental hsitory data include enviromental condition data, such as Temperature and Humdidity. 
